@@ -1,2 +1,2 @@
-# telegram-api-js
+# telegram-core
 Simple Telegram API based on JS
